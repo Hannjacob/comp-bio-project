@@ -1,3 +1,10 @@
+# Dating the ancestor of SARS-CoV-2
+
+Author: Jacob Hann
+
+A reproducible molecular clock analysis of 24
+SARS-CoV-2 genomes, for BIOL 5/6800.
+
 # Comp Bio project template
 
 This repository is a starting point for your own computational biology
@@ -116,6 +123,7 @@ git add pixi.toml pixi.lock .gitignore .gitattributes
 git commit -m "Describe what you changed"
 git push
 ```
+
 
 `git status` lists the files that are new or have changed.
 In the `git add` line, list the files you want to save (the ones above are
